@@ -6,11 +6,11 @@ Email:kid519388073@gmail.com
 ## 目前已更新：
 
 ### 2016广西大学CTF的Re部分
-1.Re100
+1. Re100
 warming up热身题
-2.Re200
+2. Re200
 简单注册码算法
-3.Re300
+3. Re300
 去掉nag窗口
-4.Re400
+4. Re400
 终极Boss
