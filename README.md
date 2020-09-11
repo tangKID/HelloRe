@@ -1,5 +1,5 @@
 # HelloRe
-主要是展示一些自己刷的Re,可能也会有leetcode上算法题，分享交流WriteUp,题目和writeup一并提交，希望大家喜欢逆向工程。
+主要是展示一些自己刷的Re,可能也会有leetcode上算法题，题目和writeup和破解代码已经一并提交，希望大家喜欢逆向工程，并能热爱这个领域。
 刷题时，建议不要看WriteUp,毕竟需要成就感，任何问题欢迎发邮件交流。
 Email:kid519388073@gmail.com
 
